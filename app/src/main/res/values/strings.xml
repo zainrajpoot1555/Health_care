@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Health Care App</string>
+    <string-array name="test_types">
+        <item>Blood Test</item>
+        <item>Urine Test</item>
+        <item>X-Ray</item>
+        <item>CT Scan</item>
+    </string-array>
+    <string-array name="lab_locations">
+        <item>Lab A</item>
+        <item>Lab B</item>
+        <item>Lab C</item>
+        <item>Lab D</item>
+    </string-array>
+
+
+    <string name="description_healthcare">
+        Healthcare, also known as medical care or health care, encompasses a wide array of services and processes aimed at maintaining or improving people\'s health.
+        It involves the prevention, diagnosis, treatment, and management of illnesses, diseases,
+        injuries, and other physical and mental impairments. Key components of healthcare include:
+
+        1. Preventive Care: Measures taken to prevent diseases or injuries rather than curing them or treating their symptoms. This includes vaccinations, health screenings, and lifestyle advice.
+
+        2. Primary Care: Basic or general healthcare typically provided by general practitioners, family physicians, or pediatricians. It is the first point of contact for patients.
+
+        3. Secondary Care: Specialized medical services provided by specialists or through hospital care. This includes treatment from cardiologists, dermatologists, and other specialists.
+
+        4. Tertiary Care: Highly specialized medical care typically provided in large hospitals and medical centers, involving advanced and complex procedures and treatments such as surgeries, cancer treatments, and intensive care.
+
+        5. Quaternary Care: An extension of tertiary care, involving even more specialized and rare medical treatments and procedures, often in research and teaching hospitals.
+
+        6. Public Health: Activities aimed at improving the health of populations, including disease surveillance, health education, and health policy development.
+
+        7. Mental Health Care: Services and support for individuals with mental health conditions, including therapy, counseling, psychiatric care, and support groups.
+
+        Healthcare is delivered by a diverse range of professionals, including doctors, nurses, therapists, pharmacists, and allied health professionals, working in various settings such as hospitals, clinics, nursing homes, and home care. It is supported by healthcare systems and policies, public health initiatives, and advancements in medical research and technology.
+    </string>
+</resources>
